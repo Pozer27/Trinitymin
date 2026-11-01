@@ -1,7 +1,3 @@
-"""Telegram-бот Trinity Mine: донат, поддержка, жалобы.
-
-
-
 
 import json
 import os
